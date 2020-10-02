@@ -1,0 +1,14 @@
+{
+	"name": "camping",
+	"version": "1.0.0",
+	"description": "Landing Page for Camping",
+	"main": "index.js",
+	"scripts": {
+		"compile:sass": "node-sass sass/main.scss css/style.css -w"
+	},
+	"author": "Diana L",
+	"license": "ISC",
+	"devDependencies": {
+		"node-sass": "^4.14.1"
+	}
+}
